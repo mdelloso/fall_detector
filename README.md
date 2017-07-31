@@ -1,7 +1,6 @@
 # Prototipo funcional de un sistema de detección de caídas basado en la plataforma CIAA - Hardware
-=======
+-------------------------
 <img src="doc/logo_poncho_hd.png" style="width:70%" align="right">
-Repositorio de Ponchos para la EDU-CIAA.
 
 Poncho utilizado para el proyecto "Prototipo funcional de un sistema de detección de caídas basado en la plataforma CIAA" desarrollado para obtener el título de [Especialista en Sistemas Embebidos](http://laboratorios.fi.uba.ar/lse/especializacion.html) otorgado por la [Universidad de Buenos Aires](http://www.fi.uba.ar/).
 
